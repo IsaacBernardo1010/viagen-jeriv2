@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-image: linear-gradient(to bottom, #006B8F, #97dff7 ) ;
+    background-image: linear-gradient(to bottom, #1c1d1d, #c5ced1 ) ;
     text-align: center;
     color: white;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.219);
